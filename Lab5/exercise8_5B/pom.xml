@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>edu.mum</groupId>
-	<artifactId>exercise8_5</artifactId>
+	<artifactId>exercise8_5B</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>exercise8_5</name>
+	<name>exercise8_5B</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -56,6 +56,10 @@
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>jstl</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 	</dependencies>
 

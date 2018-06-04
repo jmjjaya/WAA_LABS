@@ -11,6 +11,7 @@
 	
 	<p><spring:message code="welcome.please_selelect_one"/></p>
 	<a href="books"><spring:message code="welcome.books"/></a> 
+	<a href="cars"><spring:message code="welcome.cars"/></a> 
 	
 </body>
 </html>
